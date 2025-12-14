@@ -3,7 +3,7 @@
 I am a data scientist and machine learning engineer who applies maths and stats to problems in healthcare. I work mainly in Python and R with occasional forays into SQL via DuckDB.
 
 ### 🔭 Some interests
-Applying NLP models (various incarnations of BERT, LLMs and simple rule-based algorithms) to messy, unstructured clinical data; Data linkage and geocoding using DuckDB; Risk prediction models for earlier detection of cancer; Developing tools that assist data scientists work more efficiently
+Applying NLP models (various incarnations of BERT, LLMs and simple rule-based algorithms) to messy, unstructured clinical data; Data linkage using DuckDB; Cancer risk prediction models; Developing tools that assist data scientists
 
 ### 🔧 Technologies
 Python • R • SQL; ML frameworks: PyTorch,  Hugging Face; LLM tools: Langsmith; Cloud and ML deployment: Databricks, Pyspark, Azure, RunPod; Dev: VS Code, uv, GitHub, Quarto
